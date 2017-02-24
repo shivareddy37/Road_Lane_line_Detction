@@ -16,7 +16,8 @@ Pipeline for achieving the goal:
 
 The image sequence below decribe the steps above:
 
-![Alt text](pipeline_images/original.jpg?raw=true )
+![](pipeline_images/original.jpg=50x50 )
+
 
 
 Short comings in the current pipeline described:
