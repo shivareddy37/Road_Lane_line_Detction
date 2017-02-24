@@ -16,7 +16,8 @@ Pipeline for achieving the goal:
 
 The image sequence below decribe the steps above:
 
-![alt tag](pipeline_images/original.jpg )
+![drawing](pipeline_images/original.jpg )
+
 
 
 
