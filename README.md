@@ -16,7 +16,7 @@ Pipeline for achieving the goal:
 
 The image sequence below decribe the steps above:
 
-![alt text](pipeline_images/original.jpg =100x100 )
+![alt text](pipeline_images/original.jpg = 400x400 )
 
 
 
