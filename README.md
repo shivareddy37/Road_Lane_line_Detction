@@ -16,7 +16,20 @@ Pipeline for achieving the goal:
 
 The image sequence below decribe the steps above:
 
-![alt text](pipeline_images/original.jpg = 400x400 )
+![alt text](pipeline_images/original.jpg  )
+
+![alt text](pipeline_images/gray.jpg  )
+
+![alt text](pipeline_images/blurred.jpg  )
+
+![alt text](pipeline_images/ocanny_output.jpg  )
+
+![alt text](pipeline_images/masked.jpg  )
+
+![alt text](pipeline_images/line_img.jpg  )
+
+![alt text](pipeline_images/output.jpg  )
+
 
 
 
