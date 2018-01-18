@@ -1,5 +1,5 @@
 ﻿Road_Lane_line_Detection
-
+The project is done as part of Udacity self Driving Car Nano Degree Program.
 Goal of the project is to find road lane lines , using Opencv functions.
 
 Pipeline for achieving the goal:
